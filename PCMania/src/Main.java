@@ -67,7 +67,7 @@ public class Main {
                     break;
             }
 
-            System.out.println("CASO QUEIRA ADQUIRIR MAIS ALGUM COMPUTADOR, DIGITE A OPÇÃO DESEJADA. ADEMAIS, SE DESEJA ENCERRAR A COMPRA, DIGITE 0");
+            System.out.println("CASO QUEIRA ADQUIRIR MAIS ALGUM COMPUTADOR, DIGITE A OPÇÃO DESEJADA");
             opcao = entrada.nextInt();
 
         }
