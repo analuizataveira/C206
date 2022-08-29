@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Selecione a opção desejada");
             System.out.println("1- Cadastrar arvore");
             System.out.println("2- Mostrar informações");
-            System.out.println("3- Verificar se arvore precisa ser replantada");
+            System.out.println("3- Verificar qual arvore precisa ser replantada");
             System.out.println("4- Preço médio das plantas cadastradas");
             System.out.println("5- Sair do sistema");
 
